@@ -1,0 +1,6 @@
+VisitorID  Full Name            Gender     Contact No      Reg Date        Ticket Type  Ticket Cost  Artwork Name         Artwork Price
+==================================================================================================================================
+101        Ram Prasad           Male       9812345678      6/3/1980        Elite        2000.00      Menu                 120.00      
+108        Kritee               Female     9876541345      1/1/2004        Standard     1000.00      -                    0.00        
+200        Taylor               Female     9812345678      6/1/2010        Elite        2000.00      -                    0.00        
+20         Kritee Khadka        Female     9876543457      7/3/2001        Standard     1000.00      Moonni               12000.00    

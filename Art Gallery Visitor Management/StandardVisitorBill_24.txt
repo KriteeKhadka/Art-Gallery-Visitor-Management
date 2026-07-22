@@ -1,0 +1,8 @@
+
+------Your Bill------
+Visitor ID      : 24
+Visitor Name    : Krihsna
+Artwork Name    : Flower
+Artwork Price   : Rs. 1200.0
+Discount Amount : Rs. 120.00000178813934
+Final Price     : Rs. 1079.9999982118607

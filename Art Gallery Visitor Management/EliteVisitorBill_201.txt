@@ -1,0 +1,8 @@
+
+------Your Bill------
+Visitor ID      : 201
+Visitor Name    : Kritee Khadka
+Artwork Name    : The Sunset Vibes
+Artwork Price   : Rs. 3000.0
+Discount Amount : Rs. 1200.0
+Final Price     : Rs. 1800.0

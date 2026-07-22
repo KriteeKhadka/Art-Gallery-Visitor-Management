@@ -1,0 +1,8 @@
+
+------Your Bill------
+Visitor ID      : 100
+Visitor Name    : Kritee Khadka
+Artwork Name    : Starry Night
+Artwork Price   : Rs. 18000.0
+Discount Amount : Rs. 1800.0000268220901
+Final Price     : Rs. 16199.99997317791
