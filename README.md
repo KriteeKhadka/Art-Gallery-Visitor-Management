@@ -34,18 +34,6 @@ A Python-based command-line application designed to manage visitor records and s
 * File Handling (Read/Write)
 * Modular Programming
 
-## Project Structure
-
-```id="g7pl2x"
-Art-Gallery-Visitor-Management/
-│
-├── main.py
-├── read.py
-├── write.py
-├── operations.py
-└── visitors.txt
-```
-
 ## How to Run
 
 * Clone the repository
