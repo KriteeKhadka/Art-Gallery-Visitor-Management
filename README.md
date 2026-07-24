@@ -1,6 +1,6 @@
 # Art Gallery Visitor Management System
 
-A Python-based command-line application designed to manage visitor records and streamline operations within an art gallery environment.
+A Java based application designed to manage visitor records and streamline operations within an art gallery environment.
 
 ## Overview
 
